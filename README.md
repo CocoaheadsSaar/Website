@@ -2,4 +2,6 @@
 
 ## Deployment
 
-COCOAHEADSSAAR_SFTP_USER=username ./deploy.sh
+```sh
+$ COCOAHEADSSAAR_SFTP_USER=username ./deploy.sh
+```
